@@ -1,3 +1,3 @@
 # Git Demonstration
 
-Diese Datei enthaelt einen Tipfpehler. Helfen Sie mit, ihn zu beheben!
+Diese Datei enthaelt einen Tipfehler. Helfen Sie mit, ihn zu beheben!
